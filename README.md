@@ -1,4 +1,15 @@
 # bookAPP
+
+Api Endpoints - <br />
+ 1) /getUser/:id - for showing specific book <br/>
+ 2) /createUser - For Creating or Adding new book <br />
+ 3) /updateUser/:id - For updating <br />
+ 4) /deleteUser/:id - Delete a particular book  <br />
+
+
+
+
+
 ![2023-11-06 (2)](https://github.com/Aman2907/bookAPP/assets/74008888/1d746db8-577e-4833-a5c1-b9d4be5746b0)
 
 
