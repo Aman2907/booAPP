@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Aman2907/bookAPP/client/static/css/main.da47a0db.css",
+    "main.js": "/Aman2907/bookAPP/client/static/js/main.e8ef967f.js",
+    "index.html": "/Aman2907/bookAPP/client/index.html",
+    "main.da47a0db.css.map": "/Aman2907/bookAPP/client/static/css/main.da47a0db.css.map",
+    "main.e8ef967f.js.map": "/Aman2907/bookAPP/client/static/js/main.e8ef967f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da47a0db.css",
+    "static/js/main.e8ef967f.js"
+  ]
+}
