@@ -3,7 +3,7 @@
 
 Deployment link - https://bookapping.vercel.app/
 
-API Endpoints - <br />
+API Endpoints -  <br />
  1) /getUser/:id - for showing specific book <br/>
  2) /createUser - For Creating or Adding a new book <br />
  3) /updateUser/:id - For updating <br />
@@ -12,7 +12,6 @@ API Endpoints - <br />
 
  For running locally download the bookAPP from git <br />
  - Install node_modules in the Server as well as in the Client folder
-
 
 
 
